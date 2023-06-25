@@ -1,8 +1,10 @@
 {
   "alunos": [
-    "Nome": "thieres",
-    "Idade": 20,
-    "RA": "044987",
-    "id": 1
+    {
+      "Nome": "thieres",
+      "Idade": 20,
+      "RA": "044987",
+      "id": 1
+    }
   ]
 }
